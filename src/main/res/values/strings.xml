@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">TestYourSkills</string>
+
+    <string name="score">Score 0/5</string>
+    <string name="question_number">Question 1/5</string>
+
+    <string name="questionC_1"> Which of the following features are supported by C++?</string>
+    <string name="questionC_1A"> Polymorphism</string>
+    <string name="questionC_1B"> Encapsulation</string>
+    <string name="questionC_1C"> Inheritance</string>
+    <string name="questionC_1D"> All of the above</string>
+    <string name="answerC_1"> All of the above</string>
+
+    <string name="questionC_2"> A C++ code line ends with ___ ?</string>
+    <string name="questionC_2A"> Fullstop (.)</string>
+    <string name="questionC_2B"> Semicolon (;)</string>
+    <string name="questionC_2C"> Comma (,)</string>
+    <string name="questionC_2D"> Slash (/)</string>
+    <string name="answerC_2"> Semicolon (;)</string>
+
+    <string name="questionC_3"> An expression A.B in C++ means ____ ?</string>
+    <string name="questionC_3A"> A is member of object B</string>
+    <string name="questionC_3B"> .Product of A and B</string>
+    <string name="questionC_3C"> B is member of Object A</string>
+    <string name="questionC_3D"> None of these</string>
+    <string name="answerC_3"> B is member of Object A</string>
+
+    <string name="questionC_4"> Which of the following is not a type of constructor?</string>
+    <string name="questionC_4A"> Friend constructor</string>
+    <string name="questionC_4B"> Copy constructor</string>
+    <string name="questionC_4C"> Default constructor</string>
+    <string name="questionC_4D"> Parameterized constructor</string>
+    <string name="answerC_4"> Friend constructor</string>
+
+    <string name="questionC_5"> strcmp() is a function of which header file?</string>
+    <string name="questionC_5A"> stdio.h </string>
+    <string name="questionC_5B"> iostream.h</string>
+    <string name="questionC_5C"> strcmp.h</string>
+    <string name="questionC_5D"> string.h</string>
+    <string name="answerC_5"> string.h</string>
+
+
+    <string name="questionP_1"> Which one of the following is the correct extension of the Python file?</string>
+    <string name="questionP_1A"> .python</string>
+    <string name="questionP_1B"> .py</string>
+    <string name="questionP_1C"> .p</string>
+    <string name="questionP_1D"> None of the above</string>
+    <string name="answerP_1"> .py</string>
+
+    <string name="questionP_2"> What do we use to define a block of code in Python language?</string>
+    <string name="questionP_2A"> Curly Braces {}</string>
+    <string name="questionP_2B"> Close Bracket []</string>
+    <string name="questionP_2C"> Open Bracket ()</string>
+    <string name="questionP_2D"> Indentation</string>
+    <string name="answerP_2"> Indentation</string>
+
+    <string name="questionP_3"> Which of the following operators is the correct option for power(ab)?</string>
+    <string name="questionP_3A"> a ^ b</string>
+    <string name="questionP_3B"> a ^^ b</string>
+    <string name="questionP_3C"> a ** b</string>
+    <string name="questionP_3D"> a ^* b</string>
+    <string name="answerP_3"> a ** b</string>
+
+    <string name="questionP_4"> Which of the following function headers is correct?</string>
+    <string name="questionP_4A"> def fun(a=2,b=3,c)</string>
+    <string name="questionP_4B"> def fun(a=2,b,c=3)</string>
+    <string name="questionP_4C"> def fun(a,b=2,c=3)</string>
+    <string name="questionP_4D"> def fun(a,b,c=3,d)</string>
+    <string name="answerP_4"> def fun(a,b=2,c=3)</string>
+
+    <string name="questionP_5"> What will be the output? "\n" a = 8.6 "\n" b = 2 "\n" print a//b </string>
+    <string name="questionP_5A"> 4.0</string>
+    <string name="questionP_5B"> 4.3</string>
+    <string name="questionP_5C"> 4</string>
+    <string name="questionP_5D"> compilation error</string>
+    <string name="answerP_5"> 4.0</string>
+
+    <string name="selectedoption">SelectedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+</resources>
